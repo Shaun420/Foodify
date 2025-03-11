@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Foodify</string>
+    <string name="app_description">Foodify App</string>
+    <string name="app_logo_description">Foodify App Logo</string>
+    <string name="welcome_to_nutriscan">Welcome to Foodify!</string>
+    <string name="google_login_requirement_explanation">Google Login required</string>
+    <string name="privacy_policy_statement">Privacy Policy</string>
 </resources>
